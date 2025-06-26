@@ -6,3 +6,8 @@
 html, body {
     font-size: 16px;
 }
+.header {
+    padding: 20px 0;
+    background: #ffddff;
+    max-width: 940px;
+}
