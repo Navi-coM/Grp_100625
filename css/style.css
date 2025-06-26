@@ -11,3 +11,7 @@ html, body {
     background: #ffddff;
     max-width: 940px;
 }
+.nav {
+    display: flex;
+    margin: 25px auto;
+}
